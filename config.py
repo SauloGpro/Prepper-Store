@@ -1,0 +1,2 @@
+# Token del bot
+TOKEN = '7929103907:AAEyNM9tXI10LKaVlYpEWsGFXakgJcj2CIA'

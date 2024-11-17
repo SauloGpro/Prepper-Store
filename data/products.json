@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Herramienta de Supervivencia",
+        "price": 25.50,
+        "description": "Un cuchillo multifuncional para situaciones extremas.",
+        "image_url": "https://example.com/survival_tool.jpg",
+        "stock": 10
+    },
+    {
+        "name": "Reloj Resistente",
+        "price": 80.00,
+        "description": "Reloj resistente al agua y a golpes.",
+        "image_url": "https://example.com/durable_watch.jpg",
+        "stock": 5
+    }
+]
